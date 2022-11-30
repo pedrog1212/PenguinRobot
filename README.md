@@ -18,8 +18,8 @@ Penguin parts fit in a 6x6x6 inch box and the assembling time is 2 hours.
 
 Penguin is using a cell phone as remote control,
 with the Bluetooth application "ELEGOO BLE Tool".
-![Probot4](https://user-images.githubusercontent.com/111242265/204881484-a895592f-fab5-4efe-b8c9-8d9c878221b4.jpeg)
 
+<img width="451" alt="image" src="https://user-images.githubusercontent.com/111242265/204888379-aa8a45ab-a2c8-43b0-9659-de90acbf2e4b.png">
 
 How to use Penguin:
 
