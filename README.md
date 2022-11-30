@@ -20,22 +20,24 @@ Penguin is using a cell phone as remote control,
 with the Bluetooth application "ELEGOO BLE Tool".
 ![Probot4](https://user-images.githubusercontent.com/111242265/204881484-a895592f-fab5-4efe-b8c9-8d9c878221b4.jpeg)
 
+
 How to use Penguin:
 
-1. Install the phone application "ELEGOO BLE Tool".
-2. Read the instructions about how this phone app is customized. 
-3. Use in the customized menu the following messages:
-4. 'a' to activate the following Line option
-5. 'c' following an object 
-6. 'd' state changing
-7. 'o' avoiding obstacles  // *** used this Penguin robot option without the foam chassis
-8. 'f' moving forward();  // if msg ‘f’ move forward 
-9. 'b' moving back    
-10. 'l' moving left 
-11. 'r' moving right 
-12. 's' stopping  
-  
-5. Then each of your customized keys will make the robot move in the selected direction.
-6. your keys  
+1. Build the Robot following the Building Manual "ASSEMBLY STEP BY STEP".
+2. Install the phone application "ELEGOO BLE Tool". 
+3. Read the instructions about how this phone app is customized. 
+4. Put in the customized menu the following messages:
+5.  'a' to activate the following Line option
+6.  'c' following an object 
+7.  'd' state changing
+8.  'o' avoiding obstacles  // *** used this Penguin robot option without the foam chassis
+9.  'f' moving forward();  // if msg ‘f’ move forward 
+10. 'b' moving back    
+11. 'l' moving left 
+12. 'r' moving right 
+13. 's' stopping 
+
+Then each of your customized keys with these messages will make the robot move in the selected direction.
+ 
   
 
