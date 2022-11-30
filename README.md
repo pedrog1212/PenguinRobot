@@ -24,18 +24,19 @@ with the Bluetooth application "ELEGOO BLE Tool".
 How to use Penguin:
 
 1. Build the Robot following the Building Manual "ASSEMBLY STEP BY STEP".
-2. Install the phone application "ELEGOO BLE Tool". 
-3. Read the instructions about how this phone app is customized. 
-4. Put in the customized menu the following messages:
-5.  'a' to activate the following Line option
-6.  'c' following an object 
-7.  'd' state changing
-8.  'o' avoiding obstacles  // *** used this Penguin robot option without the foam chassis
-9.  'f' moving forward();  // if msg ‘f’ move forward 
-10. 'b' moving back    
-11. 'l' moving left 
-12. 'r' moving right 
-13. 's' stopping 
+2. The code is already loaded in the Arduino board.
+3. Install the phone application "ELEGOO BLE Tool". 
+4. Read the instructions about how this phone app is customized. 
+5. Put in the customized menu the following messages:
+6.  'a' to activate the following Line option
+7.  'c' following an object 
+8.  'd' state changing
+9.  'o' avoiding obstacles  // *** used this Penguin robot option without the foam chassis
+10.  'f' moving forward();  // if msg ‘f’ move forward 
+11. 'b' moving back    
+12. 'l' moving left 
+13. 'r' moving right 
+14. 's' stopping 
 
 Then each of your customized keys with these messages will make the robot move in the selected direction.
  
