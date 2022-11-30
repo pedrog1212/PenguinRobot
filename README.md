@@ -19,3 +19,21 @@ Penguin parts fit in a 6x6x6 inch box and the assembling time is 2 hours.
 Penguin is using a cell phone as remote control,
 with the Bluetooth application "ELEGOO BLE Tool".
 ![Probot4](https://user-images.githubusercontent.com/111242265/204881484-a895592f-fab5-4efe-b8c9-8d9c878221b4.jpeg)
+
+How to use Penguin. Penguin User options:
+
+1. Install the phone application "ELEGOO BLE Tool".
+2. Read the instructions about how this phone app is customized. 
+3. Use in the customized menu the following messages:
+ 
+  'a' to activate the following Line option            
+  'c' following an object 
+  'd' state changing
+  'o' avoiding obstacles  // *** used this Penguin robot option without the foam chassis
+  'f' moving forward();  // if msg ‘f’ move forward         
+  'b' moving back    
+  'l' moving left();   
+  'r' moving right(); 
+  's' stopping  
+  
+
