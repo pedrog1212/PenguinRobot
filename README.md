@@ -16,7 +16,7 @@ On the top of the electronics base is an assembled body
 that hides the electronics and carries small objects. 
 Penguin parts fit in a 6x6x6 inch box and the assembling time is 2 hours.
 
-Penguin is using a cell phone as remote control,
+Penguin is using a cell phone as a remote-control,
 with the Bluetooth application "ELEGOO BLE Tool".
 
 <img width="451" alt="image" src="https://user-images.githubusercontent.com/111242265/204888379-aa8a45ab-a2c8-43b0-9659-de90acbf2e4b.png">
@@ -24,7 +24,7 @@ with the Bluetooth application "ELEGOO BLE Tool".
 How to use Penguin:
 
 1. Build the Robot following the Building Manual "ASSEMBLY STEP BY STEP".
-2. The code is already loaded in the Arduino board.
+2. The code is already loaded on the Arduino board.
 3. Install the phone application "ELEGOO BLE Tool". 
 4. Read the instructions about how this phone app is customized. 
 5. Put in the customized menu the following messages:
